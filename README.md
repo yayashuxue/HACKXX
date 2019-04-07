@@ -3,9 +3,9 @@ UI Design competition code
 # Description:
 ## Front End
 This is a swift code file structure
+Xcode 10.2
 ### To Run:
-
 ## Back End
 courses repo
 ### To Run:
-python courses_.py
+python course_list.py
